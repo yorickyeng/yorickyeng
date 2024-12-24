@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![image](https://github.com/user-attachments/assets/3054f4f0-70a2-4107-9261-a2ddc4a7006d)
 
 💬 Я начинающий разработчик Android с опытом в Kotlin, Java и современных инструментах разработки. Я увлечён созданием мобильных приложений, изучаю новые технологии и стремлюсь постоянно совершенствовать свои навыки.
@@ -40,4 +41,4 @@ Here are some ideas to get you started:
 📫 How to reach me:
 - Email: sultanovainur05@gmail.com
 - Telegram: [yorick_yeng](https://t.me/yorick_yeng)
-- Resume: [resume](https://hh.ru/resume/e73232a5ff0e2266520039ed1f773031775875)
+- Резюме: [резюме](https://hh.ru/resume/e73232a5ff0e2266520039ed1f773031775875)
