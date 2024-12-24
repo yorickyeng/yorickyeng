@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 - Приложение с гифками https://github.com/yorickyeng/GIPHY_API. Отображает гифки, загруженные с апи
 
+⚡ Fun fact:
+Тута можете послушать мои песни -> [friendlykiss](https://band.link/friendlykiss)
+
 📫 How to reach me:
 - Email: sultanovainur05@gmail.com
 - Telegram: https://t.me/yorick_yeng
