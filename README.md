@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 
 Проекты
 
-Приложение с шутками https://github.com/yorickyeng/al_jokes
+- Приложение с шутками https://github.com/yorickyeng/al_jokes
 Разработанов в рамках учебного проекта совместно с T-Банком. Приложение раьботает с API, которое загружает шутки и базами данных, в которых они сохраняются и выводятся на экран
 
-Музыкальное приложение https://github.com/yorickyeng/Chillify
+- Музыкальное приложение https://github.com/yorickyeng/Chillify
 Совместный проект, над которым мы работаем. Задумка в том, чтобы вытягивать музыку по API и воспроизводить ее.
 
-Сайт на Bootstrap + Backend https://github.com/yorickyeng/askme_Sultanov
+- Сайт на Bootstrap + Backend https://github.com/yorickyeng/askme_Sultanov
 Проект сайта с вопросами и ответами, работа с MySQL и Python Django.
 
-Приложение с гифками https://github.com/yorickyeng/GIPHY_API
+- Приложение с гифками https://github.com/yorickyeng/GIPHY_API
 Отображает гифки, загруженные с апи
 
-- 📫 How to reach me:
+📫 How to reach me:
 - Email: sultanovainur05@gmail.com
 - Telegram: t.me/yorick_yeng
