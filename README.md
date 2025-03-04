@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/3054f4f0-70a2-4107-9261-a2ddc4a7006d" width="320" height="320" />
 </div>
 
+<p align=center>
+    <img src="https://skillicons.dev/icons?theme=light&i=ableton,kotlin,androidstudio,gradle,java,js,html,css,python,cpp,django,figma,photoshop,premiere">
+</p>
+
 💬 I am a beginner Android developer with experience in Kotlin, Java, and modern development tools. I am passionate about creating mobile applications, learning new technologies, and constantly improving my skills.
 
 ⚡Currently studying at:
