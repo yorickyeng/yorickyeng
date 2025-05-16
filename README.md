@@ -23,19 +23,19 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?theme=light&i=ableton,kotlin,androidstudio,gradle,java,js,html,css,python,cpp,django,figma,photoshop,premiere">
 </p>
 
-💬 I am a beginner Android developer with experience in Kotlin, Java, and modern development tools. I am passionate about creating mobile applications, learning new technologies, and constantly improving my skills.
+💬 I love Kotlin and developing Android apps.
 
 ⚡Currently studying at:
 
-- BMSTU (Bauman Moscow State Technical University) at the department of IU3 ("Information Systems and Technologies") (2nd year)
+- BMSTU (Bauman Moscow State Technical University) at the department of IU3 ("Information Systems and Technologies") (2nd course)
 
-- VK Education (ex. Technopark) in the course "Mobile Developer on Android"
+- VK Education (ex. Technopark) in the course "Mobile Developer on Android" 2024/2025
   
 - Digital Department of BMSTU in the specialization "Android Developer 2024/2025"
 
 - Completed the T-Bank course "Android Development at BMSTU" (Fall 2024)
 
-👯 Проекты:
+👯 Pet-projects:
 
 - The Witcher IU3 [The Witcher IU3](https://github.com/yorickyeng/the-witcher-iu3). А strategic Android game blending Heroes of Might and Magic III mechanics with the dark world of The Witcher.
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - Gif app [GIPHY_API](https://github.com/yorickyeng/GIPHY_API). Displays gifs loaded from the API.
 
 ⚡ Fun fact:
-You can listen to my songs here -> [Friendly Kiss](https://band.link/friendlykiss)
+I am an indie DIY musician. You can listen to my songs here -> [Friendly Kiss](https://band.link/friendlykiss)
 
 📫 How to reach me:
 - Email: sultanovainur05@gmail.com
