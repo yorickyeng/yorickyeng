@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 💬 I love Kotlin and developing Android apps.
 
-⚡Currently studying at:
+⚡Education:
 
 - BMSTU (Bauman Moscow State Technical University) at the department of IU3 ("Information Systems and Technologies") (2nd course)
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   
 - Digital Department of BMSTU in the specialization "Android Developer 2024/2025"
 
-- Completed the T-Bank course "Android Development at BMSTU" (Fall 2024)
+- T-Bank course "Android Development at BMSTU" (Fall 2024)
 
 👯 Pet-projects:
 
