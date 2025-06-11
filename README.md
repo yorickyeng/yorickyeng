@@ -1,20 +1,5 @@
 ## Hi:) 👋
 
-<!--
-**yorickyeng/yorickyeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 <img src="https://github.com/user-attachments/assets/3054f4f0-70a2-4107-9261-a2ddc4a7006d" width="320" height="320" />
 </div>
@@ -37,15 +22,18 @@ Here are some ideas to get you started:
 
 👯 Pet-projects:
 
-- The Witcher IU3 [The Witcher IU3](https://github.com/yorickyeng/the-witcher-iu3). А strategic Android game blending Heroes of Might and Magic III mechanics with the dark world of The Witcher.
+- [Memify](https://github.com/Code-Kotliners-Inc/memify/tree/develop) - 📲 [Доступно в Google Play](https://play.google.com/store/apps/details?id=com.codekotliners.memify)
+An application for creating, editing and sharing memes that combines the functionality of editor and social platform. Created as part of the course on Android-development from HC (Technopark) as a graduation project by a team of 6 people with mentor. The project has been working on for several months. Industrial-like practices were actively applied: code-review, GitFlow, architectural planning, regular synchronization.
 
-- Joke app [al_jokes](https://github.com/yorickyeng/al_jokes). Developed as part of a collaborative educational project with T-Bank. The app works with an API that loads jokes and databases where they are stored and displayed on the screen.
+- [The Witcher IU3](https://github.com/yorickyeng/the-witcher-iu3). А strategic Android game blending Heroes of Might and Magic III mechanics with the dark world of The Witcher.
 
-- Music app [Chillify](https://github.com/yorickyeng/Chillify). A collaborative project I'm working on with a friend. The idea is to pull music via API and play it.
+- [Joke app](https://github.com/yorickyeng/al_jokes). Developed as part of a collaborative educational project with T-Bank. The app works with an API that loads jokes and databases where they are stored and displayed on the screen.
+
+- [Chillify](https://github.com/yorickyeng/Chillify). A collaborative project I'm working on with a friend. The idea is to pull music via API and play it.
   
-- Bootstrap + Backend website [askme_Sultanov](https://github.com/yorickyeng/askme_Sultanov). A Q&A website project, working with MySQL and Python Django.
+- [net-talk](https://github.com/yorickyeng/net-talk). A Q&A website project, working with MySQL and Python Django.
 
-- Gif app [GIPHY_API](https://github.com/yorickyeng/GIPHY_API). Displays gifs loaded from the API.
+- [GIPHY_APP](https://github.com/yorickyeng/GIPHY_API). Displays gifs loaded from the API.
 
 ⚡ Fun fact:
 I am an indie DIY musician. You can listen to my songs here -> [Friendly Kiss](https://band.link/friendlykiss)
