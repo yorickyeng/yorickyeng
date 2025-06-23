@@ -22,7 +22,7 @@
 
 👯 Pet-projects:
 
-- [memify](https://github.com/Code-Kotliners-Inc/memify/tree/develop) - 📲 [Доступно в Google Play](https://play.google.com/store/apps/details?id=com.codekotliners.memify)
+- [memify](https://github.com/Code-Kotliners-Inc/memify/tree/develop) - 📲 [Available in Google Play](https://play.google.com/store/apps/details?id=com.codekotliners.memify)
 An application for creating, editing and sharing memes that combines the functionality of editor and social platform. Created as part of the course on Android-development from HC (Technopark) as a graduation project by a team of 6 people with mentor. The project has been working on for several months. Industrial-like practices were actively applied: code-review, GitFlow, architectural planning, regular synchronization.
 
 - [studentify-server](https://github.com/yorickyeng/studentify-server). Ktor server for studentify android app.
